@@ -30,11 +30,11 @@ body > *, .nav > *, .hero, .infosec > *, .infosec > * > *, .callsec > *, .footer
     color: #e5e7eb;
 }
 .nav > ul > li > .link{
-    padding: 0 30px;
+    padding: 0 15px;
     transition: 0.2s ease-in-out;
 }
 .nav > ul > li > .link:hover{
-    padding: 20px 30px;
+    padding: 20px 15px;
     background-color: #e5e7eb;
     color: #1f2937;
     border-radius: 5px;
@@ -180,7 +180,7 @@ body > *, .nav > *, .hero, .infosec > *, .infosec > * > *, .callsec > *, .footer
 .footer {
     background-color: #1f2937;
     color: #e5e7eb;
-    font-size: 18px;
+    font-size: 10px;
     padding: 20px;
     justify-content: center;
 }
